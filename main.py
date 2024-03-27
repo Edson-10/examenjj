@@ -38,7 +38,7 @@ def index():
         }
     </style>
     <html>
-    <link rel="stylesheet" href="https://drive.google.com/file/d/1odr8AQtXRkaxpFlm3Ra-dyXvJ-seipQE/view">
+    <link rel="stylesheet" href="https://scontent.fjau3-1.fna.fbcdn.net/v/t39.30808-6/434458757_954295152875317_9133568601861616987_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEEAds9DCCug4RGBExn2h8qt1qr-HkWYqO3Wqv4eRZio103iLITYOZK5uQDvBjB85IqEJ7glAVZP4rGMeSA1hlf&_nc_ohc=fltoXMf34CQAX-mxC_6&_nc_ht=scontent.fjau3-1.fna&oh=00_AfD79Hksp5ILbYsePJIzKRNd-qBJE6Ln0D8GF1nhSGvTaA&oe=6608ED57 ">
     <div class="card">
         <img src="img.jpg" alt="John" style="width:100%">
         <h1>John Doe</h1>
