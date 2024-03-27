@@ -38,7 +38,7 @@ def index():
         }
     </style>
     <html>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://media.discordapp.net/attachments/1182812615626473572/1221522292966817922/image.png?ex=6612e249&is=66006d49&hm=92395e936c22f4a955eccc74c621ae62da4f6809ba613402aa5fb0f7e6c3d839&=&format=webp&quality=lossless&width=800&height=676">
     <div class="card">
         <img src="img.jpg" alt="John" style="width:100%">
         <h1>John Doe</h1>
